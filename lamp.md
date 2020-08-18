@@ -8,4 +8,4 @@ Ping Servidor WEB
 
 
 Ping Servidor DNS
-![Print ping servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/ping_servidor_web.png)
+![Print ping servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/ping_servidor_dns.png)
