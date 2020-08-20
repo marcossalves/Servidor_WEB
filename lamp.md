@@ -30,3 +30,9 @@ Acesso remoto ssh DNS
 Acesso remoto ssh servidor web
 
 ![Print ping servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/acesso_remoto_ssh_servidor_web.png)
+
+
+Acesso via ftp servidor web
+
+![Print ping servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/acesso_servidor_web_via_ftp.png)
+
