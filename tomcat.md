@@ -30,3 +30,6 @@ Teste Hello.jsp
 ![Print Hello.jsp](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/hello.jsp.png)
 
 
+Acesso host manager gui
+
+![Print acesso remoto Tomcat](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/host_manager_gui.png)
