@@ -44,3 +44,16 @@ Acesso site Trevo Farmacêutica
 ![Acesso site Trevo Farmacêutica](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/print_site_trevo.png)
 
 
+Acesso Wordpreess Trevo Farmacêutica
+
+![Acesso site Trevo Farmacêutica](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/print_trevofarmaceutica_wordpress.png)
+
+
+Acesso site teste Professor Jose de Assis
+
+![site teste Professor Jose de Assis](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/print_site_jose.png)
+
+Acesso Wordpress teste Professor Jose de Assis
+
+![Wordpress teste Professor Jose de Assis](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/print_acesso_wordpress_jose.png)
+
