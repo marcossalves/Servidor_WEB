@@ -12,6 +12,10 @@ Ping Servidor WEB
 ![Print ping servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/ping_servidor_web.png)
 
 
+Servidor DNS
+![Print ping servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/Servidor_dns_Centos.png)
+
+
 
 Ping Servidor DNS
 ![Print ping servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/ping_servidor_dns.png)
