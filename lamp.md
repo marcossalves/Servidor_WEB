@@ -32,11 +32,14 @@ Acesso remoto ssh servidor web
 ![Acesso remoto ssh servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/acesso_remoto_ssh_servidor_web.png)
 
 
-Acesso via ftp servidor web
+Acesso Trevo via ftp servidor web
 
 ![Acesso via ftp servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/acesso_servidor_web_via_ftp.png)
 
 
+Acesso Admin via ftp servidor web
+
+![Acesso via ftp servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/acesso_servidor_web_via_ftp_admin.png)
 
 
 Acesso site Trevo Farmacêutica
