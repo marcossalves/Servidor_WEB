@@ -14,7 +14,7 @@ Ping Servidor WEB
 
 Servidor DNS
 
-![Print ping servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/Servidor_dns_Centos.png)
+![Print Servidor DNS](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/Servidor_dns_Centos.png)
 
 
 Ping Servidor DNS
@@ -29,10 +29,10 @@ Acesso remoto ssh DNS
 
 Acesso remoto ssh servidor web
 
-![Print ping servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/acesso_remoto_ssh_servidor_web.png)
+![Acesso remoto ssh servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/acesso_remoto_ssh_servidor_web.png)
 
 
 Acesso via ftp servidor web
 
-![Print ping servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/acesso_servidor_web_via_ftp.png)
+![Acesso via ftp servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/acesso_servidor_web_via_ftp.png)
 
