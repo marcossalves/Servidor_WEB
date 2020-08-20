@@ -44,7 +44,7 @@ Acesso site Trevo Farmacêutica
 ![Acesso site Trevo Farmacêutica](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/print_site_trevo.png)
 
 
-Acesso Wordpreess Trevo Farmacêutica
+Acesso Wordpress Trevo Farmacêutica
 
 ![Acesso site Trevo Farmacêutica](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens/print_trevofarmaceutica_wordpress.png)
 
