@@ -11,12 +11,12 @@ Vídeos professor Jose de Assis
 
 Servidor Tomcat
 
-![Print Servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/print_servidor_tomcat.png)
+![](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/print_servidor_tomcat.png)
 
 
 Ping Servidor Tomcat
 
-!](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/ping_servidor_tomcat.png)
+![](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/ping_servidor_tomcat.png)
 
 
 Acesso remoto Tomcat 
