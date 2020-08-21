@@ -11,40 +11,40 @@ Vídeos professor Jose de Assis
 
 Servidor Tomcat
 
-![](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/print_servidor_tomcat.png)
+![](https://github.com/marcossalves/Servidor_WEB/blob/master/img_tomcat/print_servidor_tomcat.png)
 
 
 Ping Servidor Tomcat
 
-![](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/ping_servidor_tomcat.png)
+![](https://github.com/marcossalves/Servidor_WEB/blob/master/img_tomcat/ping_servidor_tomcat.png)
 
 
 Acesso remoto Tomcat 
 
-![](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/acesso_remoto_ssh_servidor_tomcat.png)
+![](https://github.com/marcossalves/Servidor_WEB/blob/master/img_tomcat/acesso_remoto_ssh_servidor_tomcat.png)
 
 
 
 Teste Hello.jsp 
 
-![](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/hello.jsp.png)
+![](https://github.com/marcossalves/Servidor_WEB/blob/master/img_tomcat/hello.jsp.png)
 
 
 Acesso host manager gui
 
-![](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/host_manager_gui.png)
+![](https://github.com/marcossalves/Servidor_WEB/blob/master/img_tomcat/host_manager_gui.png)
 
 
 Acesso aplicativo1 tomcat
 
-![](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/print_app1.png)
+![](https://github.com/marcossalves/Servidor_WEB/blob/master/img_tomcat/print_app1.png)
 
 
 Acesso aplicativo2 tomcat
 
-![](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/print_app2.png)
+![](https://github.com/marcossalves/Servidor_WEB/blob/master/img_tomcat/print_app2.png)
 
 
 Acesso banco de dados mysql tomcat
 
-![](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/acesso_mysql_tomcat_workbench.png)
+![](https://github.com/marcossalves/Servidor_WEB/blob/master/img_tomcat/acesso_mysql_tomcat_workbench.png)
