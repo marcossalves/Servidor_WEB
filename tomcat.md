@@ -16,25 +16,35 @@ Servidor Tomcat
 
 Ping Servidor Tomcat
 
-![Print Servidor web](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/ping_servidor_tomcat.png)
+!](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/ping_servidor_tomcat.png)
 
 
 Acesso remoto Tomcat 
 
-![Print acesso remoto Tomcat](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/acesso_remoto_ssh_servidor_tomcat.png)
+![](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/acesso_remoto_ssh_servidor_tomcat.png)
 
 
 
 Teste Hello.jsp 
 
-![Print Hello.jsp](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/hello.jsp.png)
+![](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/hello.jsp.png)
 
 
 Acesso host manager gui
 
-![Print acesso remoto Tomcat](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/host_manager_gui.png)
+![](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/host_manager_gui.png)
 
 
-Acesso aplicativo1_tomcat
+Acesso aplicativo1 tomcat
 
 ![](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/print_app1.png)
+
+
+Acesso aplicativo2 tomcat
+
+![](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/print_app2.png)
+
+
+Acesso banco de dados mysql tomcat
+
+![](https://github.com/marcossalves/Servidor_WEB/blob/master/imagens1/acesso_mysql_tomcat_workbench.png)
