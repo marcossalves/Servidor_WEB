@@ -6,7 +6,7 @@ Vídeos professor Jose de Assis
 
 [![](http://img.youtube.com/vi/fqR5SymRgLQ/0.jpg)](http://www.youtube.com/watch?v=fqR5SymRgLQ "Curso Linux Tomcat Server")
 
-[! [ Curso Linux WEB Server Nível 1 ] (/img/LAMP.jpg)] (https://www.youtube.com/playlist?list=PLbEOwbQR9lqySZ9RXfF5cFSyfA-r3n30q)
+[! [ Curso Linux WEB Server Nível 1 ] ] (https://www.youtube.com/playlist?list=PLbEOwbQR9lqySZ9RXfF5cFSyfA-r3n30q)
 
 
 Servidor Tomcat
